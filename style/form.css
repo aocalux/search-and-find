@@ -1,8 +1,8 @@
 body {
-	background-color: rgb(36, 36, 36);
+	background-color: #141414;
 	text-align: center;
 	font-size: x-large;
-	color: white;
+	color: whitesmoke;
 }
 
 .topBar {
@@ -37,7 +37,7 @@ body {
 }
 
 input {
-	background-color: rgb(50, 50, 50);
+	background-color: rgb(40, 40, 40);
 	font-size: large;
 	color: white;
 	border: solid;
@@ -57,6 +57,34 @@ input {
 .searchButton {
 	width: 115px; 
 	height: 40px;
+}
+
+.credit a {
+	position: fixed;
+	bottom: 0;
+    right: 0;
+    margin: 0.15%;
+    margin-bottom: 0.4%;
+    margin-right: 0.6%;
+    font-size: small;
+    color: gray;
+    font-style: italic;
+}
+
+.legal {
+	position: fixed;
+	bottom: 0;
+    left: 0;
+    margin: 0.15%;
+    margin-bottom: 0.4%;
+    margin-left: 1%;
+    font-size: small;
+    color: gray;
+}
+
+.legal a {
+	font-size: x-small;
+    color: gray;
 }
 
 a {
