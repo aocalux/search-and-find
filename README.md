@@ -1,3 +1,3 @@
-# suchen-und-finden
-Suchen &amp; Finden ist eine individuelle Startseite für die Ecosia-Suchmaschine.
-Schau die Demo hier an: [service.chrispri.de/websuche](http://service.chrispri.de/websuche)
+# search-and-find
+Search &amp; Find is an individual startpage for the Ecosia search engine.
+Take a look at the demo on: [service.chrispri.de/websuche](http://service.chrispri.de/websuche)
